@@ -1,0 +1,2 @@
+# TamagochiDuckUsb
+Tamagochi proyect Usb
